@@ -10,28 +10,28 @@ See: .planning/PROJECT.md (updated 2026-02-02)
 ## Current Position
 
 Phase: 1 of 3 (Media Scanner)
-Plan: 4 of 5 in current phase
-Status: In progress
-Last activity: 2026-02-02 — Completed 01-04-PLAN.md
+Plan: 5 of 5 in current phase
+Status: Phase complete
+Last activity: 2026-02-02 — Completed 01-05-PLAN.md (CLI Entry Point)
 
-Progress: [████████░░] 80%
+Progress: [██████████] 100%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 4
-- Average duration: 1.3 min
-- Total execution time: 0.09 hours
+- Total plans completed: 5
+- Average duration: 1.4 min
+- Total execution time: 0.12 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 1. Media Scanner | 4 | 5.2min | 1.3min |
+| 1. Media Scanner | 5 | 6.9min | 1.4min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (1.3min), 01-02 (1.0min), 01-03 (1.3min), 01-04 (1.6min)
-- Trend: Consistent velocity
+- Last 5 plans: 01-01 (1.3min), 01-02 (1.0min), 01-03 (1.3min), 01-04 (1.6min), 01-05 (1.7min)
+- Trend: Consistent velocity, slight increase for end-to-end verification
 
 *Updated after each plan completion*
 
@@ -62,10 +62,13 @@ Recent decisions affecting current work:
 - Only hash 16:9 matches for duplicates - more efficient than hashing all files (01-04)
 - Progress callbacks for CLI integration - onFileFound, onFileProcessed, onHashProgress (01-04)
 - CSV escapes commas, quotes, newlines per RFC 4180 (01-04)
+- Use ora spinner for progress updates - standard Node.js CLI pattern (01-05)
+- Print summary statistics before results - better UX (01-05)
+- Default to stdout for Unix piping - enables tool composition (01-05)
 
 ### Pending Todos
 
-None yet.
+Phase 1 complete. Ready for Phase 2: Immich Integration.
 
 ### Blockers/Concerns
 
@@ -73,6 +76,21 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-02-02 17:30 — Plan 01-04 executed
-Stopped at: Completed 01-04-PLAN.md (Scanner and Output)
+Last session: 2026-02-02 17:33 — Plan 01-05 executed
+Stopped at: Phase 1 Complete - CLI Entry Point delivered
 Resume file: None
+
+## Phase 1 Summary
+
+**Status:** Complete
+**Duration:** 6.9 minutes (5 plans)
+**Delivered:**
+- Complete media scanner with 16:9 filtering
+- Image reading with EXIF orientation support
+- Video reading with rotation metadata support
+- Duplicate detection via SHA-256 content hashing
+- Batch processing with configurable concurrency
+- JSON and CSV output formats
+- Full CLI tool with progress reporting
+
+**Next:** Phase 2 - Immich Integration
