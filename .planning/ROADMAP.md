@@ -27,10 +27,14 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. Only 16:9 aspect ratio content appears in output
   3. Output includes file path, dimensions, and size for each match
   4. Duplicate files are detected and flagged in output
-**Plans**: TBD
+**Plans**: 5 plans
 
 Plans:
-- [ ] TBD during planning
+- [ ] 01-01-PLAN.md — Project foundation + TypeScript types
+- [ ] 01-02-PLAN.md — Image & video readers with rotation handling
+- [ ] 01-03-PLAN.md — Aspect ratio filter + duplicate detection
+- [ ] 01-04-PLAN.md — Scanner orchestration + output formatters
+- [ ] 01-05-PLAN.md — CLI integration + end-to-end verification
 
 ### Phase 2: Import Pipeline
 **Goal**: Immich runs on NAS with all filtered media imported and organized
@@ -65,6 +69,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Media Scanner | 0/TBD | Not started | - |
+| 1. Media Scanner | 0/5 | Planned | - |
 | 2. Import Pipeline | 0/TBD | Not started | - |
 | 3. Display Setup | 0/TBD | Not started | - |
