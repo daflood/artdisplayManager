@@ -10,28 +10,28 @@ See: .planning/PROJECT.md (updated 2026-02-02)
 ## Current Position
 
 Phase: 1 of 3 (Media Scanner)
-Plan: 1 of 5 in current phase
+Plan: 2 of 5 in current phase
 Status: In progress
-Last activity: 2026-02-02 — Completed 01-01-PLAN.md
+Last activity: 2026-02-02 — Completed 01-02-PLAN.md
 
-Progress: [██░░░░░░░░] 20%
+Progress: [████░░░░░░] 40%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 1
-- Average duration: 1.3 min
-- Total execution time: 0.02 hours
+- Total plans completed: 2
+- Average duration: 1.2 min
+- Total execution time: 0.04 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| 1. Media Scanner | 1 | 1.3min | 1.3min |
+| 1. Media Scanner | 2 | 2.3min | 1.2min |
 
 **Recent Trend:**
-- Last 5 plans: 01-01 (1.3min)
-- Trend: N/A (only 1 plan completed)
+- Last 5 plans: 01-01 (1.3min), 01-02 (1.0min)
+- Trend: Consistent velocity
 
 *Updated after each plan completion*
 
@@ -50,6 +50,10 @@ Recent decisions affecting current work:
 - Strict TypeScript mode enabled for maximum type safety (01-01)
 - sharp for image processing - battle-tested, high performance (01-01)
 - ffprobe-installer for video metadata - automatic binary management (01-01)
+- Return null (not throw) for unreadable files - enables graceful degradation (01-02)
+- Use 0.01 tolerance for 16:9 comparison - handles floating point precision (01-02)
+- EXIF orientation 5-8 swap dimensions - proper display aspect ratio (01-02)
+- Video rotation 90/270 swap dimensions - correct for metadata tags (01-02)
 
 ### Pending Todos
 
@@ -61,6 +65,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-02-02 17:22 — Plan 01-01 executed
-Stopped at: Completed 01-01-PLAN.md (Project Foundation)
+Last session: 2026-02-02 17:25 — Plan 01-02 executed
+Stopped at: Completed 01-02-PLAN.md (Media Readers)
 Resume file: None
