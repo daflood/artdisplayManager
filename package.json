@@ -1,0 +1,30 @@
+{
+  "name": "media-scanner",
+  "version": "1.0.0",
+  "description": "Scans directories for 16:9 aspect ratio images and videos",
+  "type": "module",
+  "main": "./dist/cli.js",
+  "bin": {
+    "media-scanner": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/cli.js"
+  },
+  "keywords": ["media", "scanner", "aspect-ratio", "16:9"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.0",
+    "@ffprobe-installer/ffprobe": "^2.1.0",
+    "commander": "^12.0.0",
+    "ora": "^8.0.0",
+    "cli-progress": "^3.12.0",
+    "chalk": "^5.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "@types/node": "^20.0.0",
+    "@types/cli-progress": "^3.11.0"
+  }
+}
