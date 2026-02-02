@@ -9,10 +9,10 @@ Requirements for initial release. Each maps to roadmap phases.
 
 ### Media Scanner
 
-- [ ] **SCAN-01**: Scanner can scan specified directories for images and videos
-- [ ] **SCAN-02**: Scanner filters for 16:9 aspect ratio content only
-- [ ] **SCAN-03**: Scanner outputs list of matching files with metadata (path, dimensions, size)
-- [ ] **SCAN-04**: Scanner detects and flags duplicate files
+- [x] **SCAN-01**: Scanner can scan specified directories for images and videos
+- [x] **SCAN-02**: Scanner filters for 16:9 aspect ratio content only
+- [x] **SCAN-03**: Scanner outputs list of matching files with metadata (path, dimensions, size)
+- [x] **SCAN-04**: Scanner detects and flags duplicate files
 
 ### File Organization
 
@@ -66,10 +66,10 @@ Which phases cover which requirements. Updated during roadmap creation.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| SCAN-01 | Phase 1 | Pending |
-| SCAN-02 | Phase 1 | Pending |
-| SCAN-03 | Phase 1 | Pending |
-| SCAN-04 | Phase 1 | Pending |
+| SCAN-01 | Phase 1 | Complete |
+| SCAN-02 | Phase 1 | Complete |
+| SCAN-03 | Phase 1 | Complete |
+| SCAN-04 | Phase 1 | Complete |
 | ORG-01 | Phase 2 | Pending |
 | IMCH-01 | Phase 2 | Pending |
 | IMCH-02 | Phase 2 | Pending |

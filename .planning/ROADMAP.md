@@ -12,7 +12,7 @@ Transform a scattered art collection across multiple drives into a curated displ
 
 Decimal phases appear between their surrounding integers in numeric order.
 
-- [ ] **Phase 1: Media Scanner** - Find and filter 16:9 art across drives
+- [x] **Phase 1: Media Scanner** - Find and filter 16:9 art across drives
 - [ ] **Phase 2: Import Pipeline** - Deploy Immich and load filtered media
 - [ ] **Phase 3: Display Setup** - Configure Apple TV and create albums
 
@@ -30,11 +30,11 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Plans**: 5 plans
 
 Plans:
-- [ ] 01-01-PLAN.md — Project foundation + TypeScript types
-- [ ] 01-02-PLAN.md — Image & video readers with rotation handling
-- [ ] 01-03-PLAN.md — Aspect ratio filter + duplicate detection
-- [ ] 01-04-PLAN.md — Scanner orchestration + output formatters
-- [ ] 01-05-PLAN.md — CLI integration + end-to-end verification
+- [x] 01-01-PLAN.md — Project foundation + TypeScript types
+- [x] 01-02-PLAN.md — Image & video readers with rotation handling
+- [x] 01-03-PLAN.md — Aspect ratio filter + duplicate detection
+- [x] 01-04-PLAN.md — Scanner orchestration + output formatters
+- [x] 01-05-PLAN.md — CLI integration + end-to-end verification
 
 ### Phase 2: Import Pipeline
 **Goal**: Immich runs on NAS with all filtered media imported and organized
@@ -69,6 +69,6 @@ Phases execute in numeric order: 1 → 2 → 3
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Media Scanner | 0/5 | Planned | - |
+| 1. Media Scanner | 5/5 | Complete | 2026-02-02 |
 | 2. Import Pipeline | 0/TBD | Not started | - |
 | 3. Display Setup | 0/TBD | Not started | - |
