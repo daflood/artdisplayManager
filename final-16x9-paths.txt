@@ -1,0 +1,513 @@
+/media/jamessink/Blaze/AI/index-tts/assets/IndexTTS2-video-pic.png
+/media/jamessink/Blaze/AI/index-tts/assets/IndexTTS2.mp4
+/media/jamessink/Blaze/Users/james/.claude/plugins/marketplaces/claude-plugins-official/plugins/claude-code-setup/automation-recommender-example.png
+/media/jamessink/Blaze/Users/james/.claude/plugins/marketplaces/claude-plugins-official/plugins/claude-md-management/revise-claude-md-example.png
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250624165424_0026_D.MP4
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250624165556_0027_D.MP4
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250624170053_0028_D.MP4
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250624184405_0030_D.MP4
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250624184449_0031_D.MP4
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250625055634_0066_D.MP4
+/media/jamessink/Blaze/Users/james/Documents/Video Projects/Upcountry Camp/DJI_20250625055837_0067_D.MP4
+/media/jamessink/Blaze/Users/james/Pictures/Screenshots/Screenshot 2025-12-31 112309.png
+/media/jamessink/Blaze/src/vision-cu128/gallery/assets/basketball.mp4
+/media/jamessink/Blaze2/Temp/frame tv/11728930-D674-4BE7-A2BB-8838A5677754_1_201_a.png
+/media/jamessink/Blaze2/Temp/frame tv/1B38485A-C1A3-4AF8-BCF0-CCB07CAD4D96_1_201_a.png
+/media/jamessink/Blaze2/Temp/frame tv/24326349-C59B-4425-B0D0-AF6926AEE13F_1_105_c.png
+/media/jamessink/Blaze2/Temp/frame tv/3aa21c0d-3c03-4dcf-8c77-fbc2e9196103_20848.png
+/media/jamessink/Blaze2/Temp/frame tv/807ECCFE-74C2-4F00-801A-33995A2745E5_1_201_a.png
+/media/jamessink/Blaze2/Temp/frame tv/8084274A-0B11-42C2-807D-E7A156AFE82C_1_201_a.png
+/media/jamessink/Blaze2/Temp/frame tv/8B3855A2-E748-4CCF-9526-DCA0CDFE1A41_1_105_c.png
+/media/jamessink/Blaze2/Temp/frame tv/A Sunday on La Grande Jatte - Georges Seurat.png
+/media/jamessink/Blaze2/Temp/frame tv/Autumn on the Hudson River - Jasper Francis Cropsey.png
+/media/jamessink/Blaze2/Temp/frame tv/Bernina, Switzerland - Albert Bierstadt.png
+/media/jamessink/Blaze2/Temp/frame tv/California Spring - Albert Bierstadt.png
+/media/jamessink/Blaze2/Temp/frame tv/DP130155.png
+/media/jamessink/Blaze2/Temp/frame tv/Jungfrau - Albert Bierstadt.png
+/media/jamessink/Blaze2/Temp/frame tv/Lake Lucerne - Albert Bierstadt.png
+/media/jamessink/Blaze2/Temp/frame tv/Looking Down Yosemite Valley - Albert Bierstadt.png
+/media/jamessink/Blaze2/Temp/frame tv/_The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino.png
+/media/jamessink/Blaze2/Temp/frame tv/a_summer_landscape_2014.18.52.png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (12).png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (23).png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (34).png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (4) 2.png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (4).png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (47).png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (5) 2.png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (50).png
+/media/jamessink/Blaze2/Temp/frame tv/dezoomify-result (86).png
+/media/jamessink/Blaze2/Temp/frame tv/farmhouse_in_provence_1970.17.34.png
+/media/jamessink/Blaze2/Temp/frame tv/fuji.png
+/media/jamessink/Blaze2/Temp/frame tv/green_river_cliffs,_wyoming_2011.2.1.png
+/media/jamessink/Blaze2/Temp/frame tv/green_wheat_fields,_auvers_2013.122.1.png
+/media/jamessink/Blaze2/Temp/frame tv/lake_lucerne_1990.50.1.png
+/media/jamessink/Blaze2/Temp/frame tv/little_girl_in_a_blue_armchair_1983.1.18.png
+/media/jamessink/Blaze2/Temp/frame tv/mount_corcoran_2014.79.4.png
+/media/jamessink/Blaze2/Temp/frame tv/nonchaloir_(repose)_1948.16.1.png
+/media/jamessink/Blaze2/Temp/frame tv/the_artist's_garden_at_eragny_1970.17.54.png
+/media/jamessink/Blaze2/Temp/frame tv/the_artist_sketching_at_mount_desert,_maine_2004.99.1.png
+/media/jamessink/Blaze2/Temp/frame tv/the_seine_at_giverny_1963.10.180.png
+/media/jamessink/Blaze2/Temp/frame tv/the_willows_2015.19.65.png
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Desktop Archive/MVI_0190.MOV
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Digiclock/Clock A.assets/images/001.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Digiclock/Dispersion_Balls folder/(Footage)/Star Action/BG_Wall.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Digiclock/Video Samples/2011_10_29/MVI_6205.MOV
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Digiclock/Video Samples/MVI_6206.MOV
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Digiclock/Video Samples/MVI_6207.MOV
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Digiclock/Video Samples/MVI_6208.MOV
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/InDesign/Blue MArs/gimgl0.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/InDesign/Blue MArs/gimgl4.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/InDesign/Blue MArs/gimgl6.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Krapp's Last Tape/Home Recorded Reel To Reel Tape #2 Weird Al Yankovic Homemade Album (Side 1 Part 1).mp4
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/My Dropbox/BM_dlab_login.png
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Nixie HD/MVI_3087.MOV
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Processing/modes/android/examples/OpenGL/Blending/data/bjorke1.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Processing/modes/android/examples/OpenGL/Blending/data/bjorke2.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/Visual Storytelling/firefighter.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/backup docs/Blue Mars Presentation/q1/Arcadia_4.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/backup docs/Blue Mars Presentation/q1/ShadeCity_1 (1).jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/Users/Jim/Documents/jamessink/wordpress/wp-content/plugins/wapple-architect/theme/images/alum/menu_bg.jpg
+/media/jamessink/Blaze2/bigwindow download sort for backup/E/photo archive/adam's pictures/DSC_1308.AVI
+/media/jamessink/FATSSD/Downloads/Museum of Modern Art - Paintings/Richard Pousette-Dart/Richard Pousette-Dart - Chavade.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/02d39d12-f81f-4ec5-b70b-0bb4fe2281e2_8864.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/032d8c6e-e4b0-462a-a964-4d4bee7dc87b_5192.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/04C35865-B452-4FCD-8158-6F7BFAAAC9E4_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/04FDD191-CFF4-42F1-9E68-522C4EC586FD_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/04FEF384-8E2A-45B3-85DE-CBB5193A3646_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/0C5AF9B3-1168-4764-8F5C-968AD9E1F319_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/0bfd8fdf-457f-43c8-9253-a2346d37d26a_9064.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/0cc193b4-8410-47bf-b840-1a543fef4a90_4911.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/0fe6bd24-13be-4bd2-8cda-a6cc336baffb_8245.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/11197CC7-4F36-40CD-B57F-B45AEA1F4AEF_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/11728930-D674-4BE7-A2BB-8838A5677754_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/16ace04b-4b50-417c-b483-0af77fba4f8e_8507.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/175abc63-9dd8-452e-ba54-12499c39b137_8003.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/19D2A5E0-6327-4A46-8615-D47B8B5F336D_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/1B38485A-C1A3-4AF8-BCF0-CCB07CAD4D96_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/1efc3321-46cc-4b03-aa87-5f5ce2aa2157_6427.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/20a6b4f2-efc2-46ed-b379-35400f314950_4343.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/24326349-C59B-4425-B0D0-AF6926AEE13F_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/2709b745-b312-4a5c-b0f8-884b4dca5cbc_7736.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/27500598-324E-4C01-8261-8ED5ACF8000A_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/2b1a4b3b-b0f2-42db-9418-3bb2f5e4385b_4360.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/323dbdf3-ca19-413d-848e-4c5a7b186880_8201.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/360A73E3-7F1A-4C72-85EA-9085E9EE2C10_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/38e426ca-6034-4f6e-b1ed-f9061e2f5cb2_9410.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/3aa21c0d-3c03-4dcf-8c77-fbc2e9196103_20848.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/3bfe001c-e930-45f0-9b3d-f0d0035c0d44_13673.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/3e92e72d-7a50-47b9-a747-01321621f7f6_4426.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/3eef575e-fb2a-47d9-aebc-a01f34606ddd_9023.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/476F17B8-9B03-4941-8A72-03D918F5BC33_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/47afbc5c-4158-4031-9cad-9f7a07c0493f_6525.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/47d964f5-7ee8-42e2-aa95-6609809cb3c8_7419.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/4B7DA4FE-727F-4472-A801-5ABD4F8C6ECC_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/4b22685a-40ec-4798-9d4c-3788b39dd799_9312.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/4bb7bd62-79d9-4660-8d67-41b3c7d3972a_4550.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/50bc0efc-2878-483d-b97f-241b6584121f_10004.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/51700420-d338-4578-be03-7f0f280a7568_9438.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/5876B224-EDA2-441D-946A-0486D9D06A30_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/5c21ce64-6ee9-4c39-a276-4a18ab412e5b_9799.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/60bad9c0-76d4-4661-8f8b-0a6df2bd691e_20803.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/633db135-7b57-4b1f-a4bf-8a89f513a4a7_9551.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/693E902E-9D3D-4AEC-B700-8B01CD84D549_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/6968c7e2-5719-4dec-bb52-cc1b9c9d40a9_9031.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/6ADA7ADA-3BBC-45B0-9167-E3BFED0D1EE7_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/6d1f1a1c-e0ce-46de-b969-5bff83633c1b_7368.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/7297d8a4-1301-4536-b3ce-d6a6444c1b80_9127.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/732ba10a-8456-491f-889c-e56251bfcb23_3926.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/73c90d1d-0026-4c34-bae3-ff6a14f99fff_7997.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/74501E41-25F5-468D-A552-3D2E34995D30_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/7665c328-c4fa-42cb-aba1-3405979bb0d0_15490.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/792d9ee4-1c7a-4022-852a-875fc42a1b62_3000.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/7dd940c1-7772-43e9-82fe-ea6f8fd159bc_9495.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/7ef32c79-b8df-42ae-9c05-9ce545075062_9658.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/7fa36205-446a-407f-a229-a1f3adf0d7d3_11728.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/807ECCFE-74C2-4F00-801A-33995A2745E5_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/8084274A-0B11-42C2-807D-E7A156AFE82C_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/8094f61e-e458-42bd-90cf-a0ed0dcc90b9_6381.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/81DFC6DA-1EB3-42CF-9FC2-D50AD299617C_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/81d514a1-13c1-4e11-aaed-6212855297f9_3000.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/83080B71-9711-46FD-AE0A-714097EA4732_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/88A47654-0E83-474B-846B-88F8130557EA_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/8B3855A2-E748-4CCF-9526-DCA0CDFE1A41_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/8BDC4F03-3251-4682-B6CB-26A156DAE869_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/8E1ED3E1-318E-45AC-B003-78C7D062C65E_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/8c09ec70-f2c4-4994-9709-12b00e32bd9c_4505.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/90A88445-6752-4D6E-A183-0947BF9ADBE0_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/947d8348-e5a9-449e-bee7-a6304284f996_9144.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/955FF1F7-CF31-4D3C-AB29-9C224130142D_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/97C41FED-3108-4236-83BB-1FF72C4BDE79_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/9CCBCF2C-9A11-44FA-8944-2ACAD62D1500_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/9cb139f1-e7e7-491e-8754-323c7fa0ea0a_9412.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/9dffc982-738e-434b-8715-0f77be75d28c_9710.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/A Sunday on La Grande Jatte - Georges Seurat.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/A189F1DB-748A-49CC-BBB5-AFE4A2674B7C_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Albert_Bierstadt_-_Lake_Tahoe_in_winter Cropped.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Alice in Wonderland - Dragan Sekaric Shex.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Arched Library - Pexel.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Arnolfini_Portrait.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Autumn Lake, New Hampshire - Edward W Nichols.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Autumn on the Hudson River - Jasper Francis Cropsey.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/B54CD33E-B874-4AA6-8E8C-87ECFF5E429B_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Battersea Reach - James McNeill Whistler.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Bay of Uri, Brunnen - John Singer Sargent.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Beach Scene - James Hamilton.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Beach at Trouville -  Eugène Boudin.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Beach in Normandy - Gustave Courbet.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Bernina, Switzerland - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Black Magic - Wilf Perreault.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Botticelli-primavera.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Butterflys on a stick - Gab-Rysia.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/C73A2CCE-9FFC-4727-8125-B0A106F44AC7_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/California Spring - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Castle Gondolfo, Lake Albano, Italy - Christopher Pearse Cranch.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Cattelya Orchid and Three Brazilian Hummingbirds - Martin Johnson Heade.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Cliffs at Pourville - Claude Monet.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Coast of Brittany - Eugène Louis Boudin.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/DP130155.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Dad's Coming! - Winslow Homer.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/E3611D08-1EE2-46B1-93C3-3FF5D05077B1_1_201_a.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/EEC1CF7F-81EA-421A-8E66-BF267001D91A_1_105_c.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Early Spring in Central Park - Paul Cornoyer.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/El_Greco_View_of_Toledo.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/El_Tres_de_Mayo,_by_Francisco_de_Goya,_from_Prado_thin_black_margin.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Entrance to the Harbor - Eugène Louis Boudin.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Estes Park, Long's Peak - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Eugène_Delacroix_-_Le_28_Juillet._La_Liberté_guidant_le_peuple.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Evening on the Prairie - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Fallen Tree - Alexandre Calame.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Forest - Ivan Shishkin.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Goya_Maja_naga2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Great Wave - Hokusai.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Highland Light - Edward Hopper.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Horizon - Eva Margot.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/How We Toboggan in Canada - Francis George Coleridge.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Indian Village - Winslow Homer.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/JEAN_LOUIS_THÉODORE_GÉRICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Jean_Auguste_Dominique_Ingres,_La_Grande_Odalisque,_1814.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Joean_Honoré_Fragonard_-_The_Swing.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Jungfrau - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Kynance - John Brett.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/La_Bohémienne_endormie.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Lake Lucerne - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Lake Tahoe in Winter - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Lander's Peak - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Las_Meninas,_by_Diego_Velázquez,_from_Prado_in_Google_Earth.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Les_Demoiselles_d'Avignon.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Looking Down Yosemite Valley - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Minnehaha Falls - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Monarch Macro - Foundry.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Monet_-_Impression,_Sunrise.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Mont Blanc - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Morning at Grand Manan - Alfred Thompson Bricher.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Moth Macro - 10531114.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Moth Macro - Illuvis.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Mountain Solitude (Lake Oesa) - Unknown Artist.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Natural History Museum - PublicCo.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Near Vilnius, River Landscape - Józef Marszewski.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/New Jersey Beach - William Trost Richards.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Niagara Falls - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Norwegian Fjord Landscape - Adelsteen Normann.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Outlet at Lake Tahoe - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Painted Lady - jggrz.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Paul_Cézanne,_French_-_The_Large_Bathers_-_Google_Art_Project.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Ruby Tiger - Erik_Karits.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Running Stream at San Cosimato = Jean-Joseph-Xavier Bidauld.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/SK-A-1451.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/SK-A-2344.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/SK-C-109.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Setting Out to Fish - John Singer Sargen.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Sunrise on Mount Tacoma - Albert Bierstadt.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Surf on Rocks - William Trost Richards.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Tadoussac - Marie-Claire.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/The Biglin Brothers Racing - Thomas Eakins.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/The Black Rocks at Trouville - Gustave Courbet.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/The Farm - Charles-François Daubigny.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/The Portage - Winslow Homer.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/The_Garden_of_earthly_delights.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Ukrainian Windmill - Jan Stanislawski.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Un_bar_aux_Folies-Bergère_d'E._Manet_(Fondation_Vuitton,_Paris)_(33539037428).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Water Arches - Pexel.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Whistlers_Mother_high_res.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/White River at Sharon - Edward Hopper.jpg.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Winter Landscape Thaw - Savrasov.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Winter Landscape in the Evening Light - Stefan Popowski.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Winter Landscape with a River - Julian Falat.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Winter Tale - Alexander Alexeyevich Borisov.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/Yukon Sky - Alfred C. Patstone.jpg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/_The_School_of_Athens__by_Raffaello_Sanzio_da_Urbino.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a2930442-ca71-4a30-bc8b-ca44cdeb55bc_8773.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a85056fc-e8b7-4095-b24b-dbffcde7470b_4265.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_concert_1997.57.2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_creek_in_st._thomas_(virgin_islands)_1985.64.29.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_dessert_1999.44.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_friendly_call_1943.1.2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_lady_writing_1962.10.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_light_on_the_sea_2014.79.48.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_pastoral_visit_2014.136.119.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_quiet_day_near_manchester_2008.66.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_summer_landscape_2014.18.52.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/a_view_of_the_mountain_pass_called_the_notch_of_the_white_mountains_(crawford_notch)_1967.8.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/alpine_mastiffs_reanimating_a_distressed_traveler_2019.120.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ancient_ruins_near_messina,_sicily_2004.166.32.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/autumn_2001.123.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/b8a5d549-6906-4c16-8a7e-7610a42aaef7_6175.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ba3ef211-6612-42f9-af87-48bb7f5e18d6_8494.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/bc8060cb-b3ed-44ef-810b-d4d689a9cf80_9075.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/beach_scene_at_trouville_1983.1.14.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/beacon_rock,_newport_harbor_1953.1.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/blue_morning_1963.10.82.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/both_members_of_this_club_1944.13.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/boulevard_des_italiens,_morning,_sunlight_1963.10.198.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/boulevard_heloise,_argenteuil_1970.17.82.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/breton_village_1994.59.11.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/buffalo_trail__the_impending_storm_2014.79.3.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/c2819e28-3aa1-45f9-8b16-63fd41f7c39c_9293.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/c5d8ae7e-4e86-425b-a3b6-793d97bd0afa_2601.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/c6660fa0-2160-4baa-b538-941c273938e7_4600.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/c7ed12e5-a2e3-4cd6-9ed6-9e0c3601cdbe_8350.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/cfd66ca3-1a34-4212-8460-9a133bfd8138_3565.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/coast_of_brittany_1983.1.11.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/concert_at_the_casino_of_deauville_1985.64.3.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/creaci-n-de-ad-n.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/d0715ef9-23c0-4274-b741-7d4051706677_8445.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/d8875a75-72c8-4139-a3e8-b389d6b3e42f_9102.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/da38b60b-fda6-4ea4-ad29-a1296734a507_9006.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/da64ed52-f609-444c-89e1-381e8897af5a_4277.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dcc76ae4-2080-4dda-9ad8-a511c946f1f4_3000.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dd1d3304-17dc-43f7-85d9-5e4a6286a980_25080.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/departure_for_the_hunt_in_the_pontine_marshes_2004.38.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (1) 2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (1).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (10).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (11).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (12).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (13).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (14).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (15).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (16).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (17).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (18).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (19).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (2) 2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (2).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (20).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (21).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (22).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (23).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (24).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (25).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (26).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (27).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (28).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (29).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (3) 2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (3).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (30).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (31).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (32).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (33).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (34).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (35).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (36).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (37).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (38).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (39).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (4) 2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (4).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (40).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (41).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (42).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (43).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (44).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (45).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (46).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (47).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (5) 2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (5).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (50).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (51).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (52).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (53).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (54).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (55).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (56).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (57).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (58).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (59).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (6).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (62).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (63).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (65).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (66).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (67).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (7).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (70).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (71).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (72).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (73).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (74).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (79).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (80).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (81).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (82).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (83).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (84).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (85).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (86).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result (9).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result 2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/dezoomify-result.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/download (1).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/e234dd9d-2702-4c44-92fe-163766b3d420_4560.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/e9fcad31-3ce6-45c2-91db-611ecdf14aea_14389.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ececbcf7-830b-4570-92f6-eba87ee87b89_8832.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ef390b6c-6021-4738-92fe-2338c38cc2af_8762.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/el_rio_de_luz_(the_river_of_light)_1965.14.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/en_route_pour_la_peche_(setting_out_to_fish)_2014.79.32.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/f4fc6fa2-9245-422d-a712-2004819836a5_8999.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/f814f130-ddda-495b-941e-c569dca0c07c_8655.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/farmhouse_in_provence_1970.17.34.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/fd803195-132f-492a-857c-24fad0c98817_9742.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/festival_in_the_harbor_of_honfleur_1983.1.10.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ff007f54-8c8d-407d-a5b2-124643f4cc13_9354.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/figures_in_a_landscape_2014.18.53.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/forest_of_fontainebleau_1963.10.109.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/forest_scene_1949.1.4.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/four_dancers_1963.10.122.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/fuji.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/green_river_cliffs,_wyoming_2011.2.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/green_wheat_fields,_auvers_2013.122.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/haymakers_at_montfermeil_2014.18.48.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/haystacks_2014.18.58.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/haystacks_in_brittany_1972.9.11.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/hunting_in_the_pontine_marshes_1989.3.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/interior,_after_dinner_1983.1.26.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/italian_coast_scene_with_ruined_tower_1993.55.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/joshua_commanding_the_sun_to_stand_still_upon_gibeon_2004.64.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/kettle.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/la_camargo_dancing_1937.1.89.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/lake_lucerne_1990.50.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/landscape,_ile-de-france_2014.18.40.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/landscape_at_les_patis,_pontoise_1991.101.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/landscape_near_paris_1963.10.103.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/landscape_with_boatman_1949.1.10.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/landscape_with_open_gate_1986.10.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/little_girl_in_a_blue_armchair_1983.1.18.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/lumber_schooners_at_evening_on_penobscot_bay_1980.29.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/madame_camus_1963.10.121.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/marcelle_lender_dancing_the_bolero_in__chilperic__1990.127.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/meadow_1970.17.83.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/moonlight_2018.13.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/mount_corcoran_2014.79.4.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/narragansett_bay_2010.10.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/natural_arch_at_capri_1989.13.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/new_york_1986.72.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/niagara_2014.79.10.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/nonchaloir_(repose)_1948.16.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/nude_on_a_blue_cushion_1963.10.46.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/odalisque_1963.10.207.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/orchard_in_bloom,_louveciennes_1970.17.51.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/palmer_river_2021.11.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/pavement,_cairo_2006.121.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/place_du_carrousel,_paris_1970.17.55.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/pont_neuf,_paris_1970.17.58.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ripening_pears_2004.29.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/river_landscape_1952.5.58.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/rotterdam_ferry-boat_1970.17.135.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/ruins_of_the_parthenon_2014.79.20.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/seashore_with_fishermen_1970.17.121.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/second_beach,_newport_2004.58.1 (2).jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/self-portrait_1937.1.72.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/self-portrait_1998.74.5.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/shepherd_with_his_flock_2004.166.3.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/simplon_pass_2014.79.31.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/siout,_egypt_1999.7.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/sketch_of_a_cottage_yard_2014.136.83.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/skiffs_1985.64.6.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/somali lovers.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/still_life_of_oranges_and_lemons_with_blue_gloves_2014.18.13.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/sunlight_and_shadow__the_newbury_marshes_2010.74.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/swiss_landscape_2003.41.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_abduction_of_europa_2010.115.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_approaching_storm_1995.42.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_artist's_garden_at_eragny_1970.17.54.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_artist_sketching_at_mount_desert,_maine_2004.99.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_bathers_1951.5.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_battle_of_la_hogue_1959.8.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_beach_at_villerville_1963.10.4.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_bedroom_1942.9.33.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_biglin_brothers_racing_1953.7.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_bridge_at_argenteuil_1983.1.24.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_colza_(harvesting_rapeseed)_2014.136.21.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_concert_2013.38.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_conversation_1970.17.92.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_cornell_farm_1964.23.4.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_dance_class_2014.79.710.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_dance_lesson_1995.47.6.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_departure_2014.79.13.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_edge_of_the_forest_at_les_monts-girard,_fontainebleau_2000.37.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_favorite_of_the_emir_2010.95.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_flirt_2014.18.18.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_forum_at_pompeii_2020.15.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_harbor_at_lorient_1970.17.48.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_judgment_of_paris_1961.9.80.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_junction_of_the_thames_and_the_medway_1942.9.87.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_juniata,_evening_2010.107.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_lackawanna_valley_1945.4.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_last_of_the_buffalo_2014.79.5.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_longshoremen's_noon_2014.136.2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_louvre,_afternoon,_rainy_weather_2014.136.59.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_marquise_de_pezay,_and_the_marquise_de_rouge_with_her_sons_alexis_and_adrien_1964.11.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_mill_1942.9.62.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_moored_boatman__souvenir_of_an_italian_lake_2015.19.25.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_ponte_salario_1952.5.50.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_return_2014.79.12.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_riders_2014.18.7.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_scuola_di_san_marco,_venice_2004.166.25.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_seine_1971.57.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_seine_at_giverny_1963.10.180.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_shipwreck_2000.22.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_sisters_1952.9.2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_spirit_of_war_1978.12.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_stranded_ship_2003.71.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_towpath_2006.128.22.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_voyage_of_life__childhood_1971.16.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_voyage_of_life__manhood_1971.16.3.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_voyage_of_life__old_age_1971.16.4.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_voyage_of_life__youth_1971.16.2.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_white_horse_1942.9.9.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_willows_2015.19.65.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/the_worship_of_the_golden_calf_1939.1.180.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/two_women_chatting_by_the_sea,_st._thomas_1985.64.30.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/view_from_vaekero_near_christiania_1999.99.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/view_of_medinet_el-fayoum_2013.62.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/view_of_sommerspiret,_the_cliffs_of_mn_2015.21.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/view_of_the_castello_di_san_giuliano,_near_trapani,_sicily_2004.166.34.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/warwick_castle,_england_1991.142.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/washerwoman_near_trouville_1983.1.15.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/washerwomen_at_the_oise_river_near_valmondois_1949.1.3.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/yarmouth_jetty_2016.115.1.jpeg
+/media/jamessink/qnap-photo-video/Frame Aspect Ratio Optimized/young_peasant_girls_resting_in_the_fields_near_pontoise_2014.18.42.jpeg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_001.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_002.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_003.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_004.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_005.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_006.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_007.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_008.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_009.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_010.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_011.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_012.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_013.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_014.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_015.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_016.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_017.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_018.jpg
+/media/jamessink/qnap-photo-video/Photos for OLED/4k_output/image_019.jpg
